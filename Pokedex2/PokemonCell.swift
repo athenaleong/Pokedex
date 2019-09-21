@@ -7,11 +7,13 @@
 //
 
 import UIKit
+import SDWebImage
 
 class PokemonCell: UITableViewCell {
 
     @IBOutlet weak var pokeName: UILabel!
     @IBOutlet weak var pokeImage: UIImageView!
+    @IBOutlet weak var pokeNumber: UILabel!
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
@@ -26,7 +28,9 @@ class PokemonCell: UITableViewCell {
     
     func setPokemon(poke : Pokemon){
         pokeName.text = poke.name
-        //pokeImage.image = poke.imageUrl
+        pokeNumber.text = "\(poke.number!)"
+        pokeImage.sd_setImage(with: URL(string: poke.imageUrl))
+        
     }
 
 }
