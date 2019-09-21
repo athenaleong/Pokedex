@@ -4,4 +4,4 @@ The Pokémon franchise started off in its first generation with its initial rele
 The number of Pokemon has grown dramatically, and it can be hard to keep track of all of them.
 
 This is a simple Pokedex app for people to look up statistics and
-information for the over 800 Pokemon currently in existence. Let’s catch ‘em all 
+information for the over 800 Pokemon currently in existence. Let’s catch ‘em all !!
