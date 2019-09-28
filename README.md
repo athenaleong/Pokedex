@@ -12,7 +12,13 @@ The number of Pokemon has grown dramatically, and it can be hard to keep track o
 
 ### Search
 Users can filter through pokemons using search and advance search function
+![Advance Search](https://github.com/athenalyh/MDB---Pokedex/blob/master/Screenshots/Advance%20Search.png)
 
-![AdvanceSearch](Screenshots/Advance Search.png)
+### Pokedex
+Users can look through all 800+ pokemons in the pokedex
+
+### Profile page
+Tap on a pokemon and the profile page will appear!
+
 
 
