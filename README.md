@@ -1,4 +1,4 @@
-# MDB---Pokedex
+# Pokedex
 
 This is a simple Pokedex app for people to look up statistics and
 information for the over 800 Pokemon currently in existence. 
@@ -8,7 +8,7 @@ The Pokémon franchise started off in its first generation with its initial rele
 
 The number of Pokemon has grown dramatically, and it can be hard to keep track of all of them.
 
-## features 
+## Features 
 
 ![Start Page](https://github.com/athenalyh/MDB---Pokedex/blob/master/Screenshots/Start%20Page.png)
 
