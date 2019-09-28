@@ -10,15 +10,22 @@ The number of Pokemon has grown dramatically, and it can be hard to keep track o
 
 ## features 
 
+![Start Page](https://github.com/athenalyh/MDB---Pokedex/blob/master/Screenshots/Start%20Page.png)
+
 ### Search
 Users can filter through pokemons using search and advance search function
+
 ![Advance Search](https://github.com/athenalyh/MDB---Pokedex/blob/master/Screenshots/Advance%20Search.png)
 
 ### Pokedex
 Users can look through all 800+ pokemons in the pokedex
 
+![Pokedex](https://github.com/athenalyh/MDB---Pokedex/blob/master/Screenshots/Pokedex.png)
+
 ### Profile page
 Tap on a pokemon and the profile page will appear!
+
+![Profile Page](https://github.com/athenalyh/MDB---Pokedex/blob/master/Screenshots/Profile%20Page.png)
 
 
 
