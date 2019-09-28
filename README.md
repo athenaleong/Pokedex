@@ -8,4 +8,10 @@ The Pokémon franchise started off in its first generation with its initial rele
 
 The number of Pokemon has grown dramatically, and it can be hard to keep track of all of them.
 
+## features 
+
+### Search
+Users can filter through pokemons using search and advance search function
+![Advance Search](MDB---Pokedex/Screenshots/Advance Search.png)
+
 
